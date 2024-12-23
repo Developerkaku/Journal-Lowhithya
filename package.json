@@ -1,0 +1,20 @@
+{
+  "name": "namaste-reactjs",
+  "version": "1.0.0",
+  "description": "React course by Akshay Saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Lowhithya/ReactJs.git)"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "Lowhithya"
+  ],
+  "author": "Lowhithya",
+  "license": "ISC"
+}
